@@ -35,7 +35,7 @@ const TypographyStyled = styled(Typography)(() => ({
 }));
 
 function Navbar() {
-  const navigate = useNavigate();
+//   const navigate = useNavigate();
   const theme = useTheme();
   const [anchorElNav, setAnchorElNav] = React.useState(null);
   const [mobileMoreAnchorEl, setMobileMoreAnchorEl] = React.useState(null);

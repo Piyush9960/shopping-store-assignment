@@ -12,7 +12,7 @@ import MenuItem from "@mui/material/MenuItem";
 import MoreIcon from "@mui/icons-material/MoreVert";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import Logo from "assets/images/logo.png";
-import { NavLink, useNavigate } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { grey } from "@mui/material/colors";
 import { styled, useTheme } from "@mui/material";
 
